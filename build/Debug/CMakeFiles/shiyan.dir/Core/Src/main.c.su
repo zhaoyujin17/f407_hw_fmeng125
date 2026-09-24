@@ -1,0 +1,8 @@
+/Users/yujinzhao/electric/gpio/shiyan/Core/Src/main.c:71:5:main	8	static
+/Users/yujinzhao/electric/gpio/shiyan/Core/Src/main.c:145:6:SystemClock_Config	88	static
+/Users/yujinzhao/electric/gpio/shiyan/Core/Src/main.c:191:13:MX_TIM3_Init	32	static
+/Users/yujinzhao/electric/gpio/shiyan/Core/Src/main.c:236:13:MX_TIM4_Init	64	static
+/Users/yujinzhao/electric/gpio/shiyan/Core/Src/main.c:295:13:MX_TIM5_Init	64	static
+/Users/yujinzhao/electric/gpio/shiyan/Core/Src/main.c:354:13:MX_GPIO_Init	40	static
+/Users/yujinzhao/electric/gpio/shiyan/Core/Src/main.c:392:6:HAL_TIM_PeriodElapsedCallback	16	static
+/Users/yujinzhao/electric/gpio/shiyan/Core/Src/main.c:408:6:Error_Handler	4	static
